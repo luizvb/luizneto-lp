@@ -253,10 +253,9 @@ export default function Home() {
                 <p className="text-gray-300 text-lg">
                   Além disso, sou sócio e CTO da Yio Talktech, uma startup que
                   oferece um canal de comunicação inovador, que combina o melhor
-                  dos websites, chatbots e landing pages. Nesse projeto, fui
-                  responsável por definir a visão tecnológica, selecionar as
-                  tecnologias, montar a equipe e gerenciar o desenvolvimento do
-                  MVP e das melhorias contínuas.
+                  dos websites, chatbots e landing pages. E também sou fundador
+                  da Gendaia uma plataforma de agendamento de serviços com IA
+                  para Médicos e outros profissionais.
                 </p>
               </motion.div>
             </motion.div>
